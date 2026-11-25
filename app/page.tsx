@@ -1,4 +1,3 @@
-
 import Link from "next/link";
 
 export default function Home() {
@@ -9,12 +8,11 @@ export default function Home() {
       </h1>
 
       <p className="mt-4">
-        I am a third year college student.
+        I am from langtad, Sagbayan, Bohol. 
       </p>
 
       <p>
-        I am currently learning web development
-        using React and Next.js.
+       I am 20 years old and currently a third year college student.
       </p>
 
       <Link

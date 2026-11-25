@@ -10,6 +10,7 @@ export default function AboutPage() {
         I am currently learning web development
         using React and Next.js.
       </p>
+
     </main>
   );
 }
